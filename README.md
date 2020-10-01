@@ -5,21 +5,21 @@
 Using your login details this script can grab the m3u8 links from the USTVNOW website. It's nothing fancy, I made it because the current scripts out there don't work! And I wanted to watch American TV via an IPTV client rather than via a website or addon. Running this script with print out the video links. Enjoy :)
 
 
-## CLI Usage Examples:
+## CLI Usage Examples(Hereunder):
 
 
-### Get link for CBS
+### Get this link for CBS
 
 
 python ustvnow-iptv-m3u-playlist.py 'username' 'password' 'CBS';
 
 
-### Get link for ALL stations
+### Get this link for ALL stations
 
 
 python ustvnow-iptv-m3u-playlist.py 'username' 'password' 'ALL';
 
-### Get link for ALL stations with strm
+### Get this link for ALL stations with strm
 
 
 python ustvnow-iptv-m3u-playlist.py 'username' 'password' 'ALL' 'True';
